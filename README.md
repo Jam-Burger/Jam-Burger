@@ -20,6 +20,3 @@
 <br/><br/>
 
 [![Jay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jam-Burger&theme=xcode)](https://git.io/Jam-Burger)
-
-## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jam-Burger&show_icons=true)
