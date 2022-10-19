@@ -1,9 +1,6 @@
 ### It's [Jay!](https://www.linkedin.com/in/jay-malaviya)
 **I'm a Game and Web Development Enthusiast!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jam-Burger&label=Profile%20views&color=0e75b6&style=flat" alt="Jay" /> </p>
-
-
 **Languages and Tools:**
 
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
