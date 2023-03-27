@@ -17,5 +17,7 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <br/><br/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jam-Burger&show_icons=true&locale=en" alt="Jam-Burger" /></p>
+
 <!-- [![Jay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jam-Burger&theme=xcode)](https://git.io/Jam-Burger) -->
 [![@jamburger's Holopin board](https://holopin.me/jamburger)](https://holopin.io/@jamburger)
