@@ -1,21 +1,27 @@
 ### It's [Jay!](https://www.linkedin.com/in/jay-malaviya)
-**I'm a Game and Web Development Enthusiast!**
+I'm a Web Development Enthusiast. Building projects and learning different things. Also interested in physics simulations and generative art.
 
-**Languages and Tools:**
+#### Tools and Technologies I've worked with:
 
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<br/><br/>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='React' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=282C34&color=282C34'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FEFFFE&labelColor=f06529&color=f06529'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=FEFFFE&labelColor=264de4&color=264de4'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=333333&color=333333'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='next.js' src='https://img.shields.io/badge/next.js-100000?style=for-the-badge&logo=next.js&logoColor=FEFFFE&labelColor=000101&color=000101'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=node.js&logoColor=FEFFFE&labelColor=6cc248&color=6cc248'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='visualstudiocode' src='https://img.shields.io/badge/VS_code-100000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=494848&color=494848'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Android' src='https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=white&labelColor=3DDC84&color=3DDC84'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='p5.js' src='https://img.shields.io/badge/p5.js-100000?style=for-the-badge&logo=p5.js&logoColor=FEFFFE&labelColor=FF1567&color=FF1567'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=FEFFFE&labelColor=0159A1&color=0159A1'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='dart' src='https://img.shields.io/badge/dart-100000?style=for-the-badge&logo=dart&logoColor=FEFFFE&labelColor=01AD96&color=01AD96'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='unity' src='https://img.shields.io/badge/unity-100000?style=for-the-badge&logo=unity&logoColor=FEFFFE&labelColor=161C22&color=161C22'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=FEFFFE&labelColor=3FA037&color=3FA037'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='firebase' src='https://img.shields.io/badge/firebase-100000?style=for-the-badge&logo=firebase&logoColor=FEFFFE&labelColor=F5820D&color=F5820D'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FEFFFE&labelColor=7952B3&color=7952B3'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='tailwindcss' src='https://img.shields.io/badge/tailwindcss-100000?style=for-the-badge&logo=tailwindcss&logoColor=FEFFFE&labelColor=38B2AC&color=38B2AC'/></a>
 
-![jam-burger's Stats](https://github-readme-stats.vercel.app/api?username=jam-burger&theme=react&show_icons=true&hide_border=true&count_private=true&hide=contribs&text_bold=false&line_height=24)
+<!-- Badge generator: https://kapasia-dev-ed.my.site.com/Badges4Me/s/ -->
+
+
+![jam-burger's Stats](https://github-readme-stats.vercel.app/api?username=jam-burger&theme=react&show_icons=true&hide_border=true&count_private=true&hide=contribs&text_bold=false&line_height=24&custom_title=Jay's%20Github%20Stats)
 ![jam-burger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam-burger&theme=react&show_icons=true&hide_border=true&layout=compact)
