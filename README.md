@@ -10,7 +10,7 @@ I'm a Web Development Enthusiast. Building projects and learning different thing
   <img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=333333&color=333333'/>
   <img alt='next.js' src='https://img.shields.io/badge/next.js-100000?style=for-the-badge&logo=next.js&logoColor=FEFFFE&labelColor=000101&color=000101'/>
   <img alt='node.js' src='https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=node.js&logoColor=FEFFFE&labelColor=6cc248&color=6cc248'/>
-  <img alt='visualstudiocode' src='https://img.shields.io/badge/VS_code-100000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=494848&color=494848'/>
+<!--   <img alt='visualstudiocode' src='https://img.shields.io/badge/VS_code-100000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=494848&color=494848'/> -->
   <img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=004DFF&labelColor=FFE701&color=FFE701'/>
 <!--   <img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=Jupyter&logoColor=FEFFFE&labelColor=E78000&color=E78000'/> -->
   <img alt='Android' src='https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=white&labelColor=3DDC84&color=3DDC84'/>
